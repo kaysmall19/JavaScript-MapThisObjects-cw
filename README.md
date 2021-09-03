@@ -42,7 +42,7 @@ var countLetters = function(string){
 #### BONUS: 
 Write a new function called ```swapCase``` that takes a lower-case string of words and uses ```.map``` and your newly written ```capitalize()``` function to return a string where every other word is in all caps. 
 
-Hints: You may want to chain more than one ```map``` operation. Look up ````Array.prototype.map``` on MDN and see what arguments the .map callback can take if needed 
+Hints: You may want to chain more than one ```map``` operation. Look up ```Array.prototype.map``` on MDN and see what arguments the .map callback can take if needed 
 
 ex: 
 ```swapCase('hey pal, lets javascript together sometime') // => "HEY pal, LETS javascript TOGETHER sometime"
