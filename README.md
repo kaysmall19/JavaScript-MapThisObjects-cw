@@ -4,8 +4,8 @@
 
 1. Use .map to create a new array of objects where each object has a property for ```petnumber``` and ```pettype``` based on the elements in the array. Print the new array of objects.
 ```
-let arr = ["dog", "cat", "pig", "hamster"];
-let pet_objects = []; // new array to hold objects
+let petTypes = ["dog", "cat", "pig", "hamster"];
+let pet_objects = []; // new array to hold objects you produce
 ```
 #### Exercise 2:
 2. Use ```.filter``` to create an array of pet objects that only holds the hamsters.
@@ -41,6 +41,5 @@ Use `map` to take an array of words in lower-case and returns an array of the st
 
 
 ex: 
-```'hey pal, lets javascript together sometime' // => "HEY pal, LETS javascript TOGETHER sometime"
-```
+`hey pal, lets javascript together sometime` // => "HEY pal, LETS javascript TOGETHER sometime"
 
