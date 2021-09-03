@@ -31,7 +31,7 @@ let hamsters = []; // new array to hold objects
 
 #### REDUCE
 
-3. Write a function that takes a string and returns an total representing the character count for each letter of each string in the sentence. Use ```.reduce``` to build this object.  Hint: See ```.split()`` and string ```length``` property.
+3. Write a function that takes a string and returns an total representing the character count for each letter of each string in the sentence. Use ```.reduce``` to build this object.  Hint: See ```.split()``` and string ```length``` property.
 ```
 // ex. countLetters('abbcccddddeeeee') // => {a:1, b:2, c:3, d:4, e:5}
 var countLetters = function(string){
@@ -47,7 +47,7 @@ Hints: You may want to chain more than one ```map``` operation. Look up ````Arra
 ex: 
 ```swapCase('hey pal, lets javascript together sometime') // => "HEY pal, LETS javascript TOGETHER sometime"
 var swapCase = function(string){
-  // Codeeeee
+  // Code
 }
 ```
 
